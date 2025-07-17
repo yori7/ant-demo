@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="AntDemo" default="default" basedir=".">
+  <target name="default">
+    <javac srcdir="./src/main" destdir="./dest/"/>
+  </target>
+</project>
